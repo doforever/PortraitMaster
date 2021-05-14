@@ -1,1 +1,8 @@
 node_modules
+/public/uploads/*
+!public/uploads/photo-1552642986-ccb41e7059e7.jpg
+!public/uploads/photo-1553267751-1c148a7280a1.jpg
+!public/uploads/photo-1492633423870-43d1cd2775eb.jpg
+!public/uploads/photo-1498842812179-c81beecf902c.jpg
+!public/uploads/photo-1508474722893-c3ccb8918d39.jpg
+!public/uploads/photo-1529626455594-4ff0802cfb7e.jpg
